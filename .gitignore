@@ -1,1 +1,5 @@
+#ignore the executable
 Terraria
+
+#ignore any .o files
+*.o
