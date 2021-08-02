@@ -1,6 +1,6 @@
 //handles all the player stats.
 #pragma once
-#include <inventory.hpp>
+#include "inventory.hpp"
 
 
 class Player

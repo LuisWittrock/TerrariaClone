@@ -1,5 +1,6 @@
 //holds information for any specific block
 //block id, block x-position, block y-position
+#pragma once
 
 class Block
 {
